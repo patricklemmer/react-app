@@ -30,7 +30,6 @@ export const NavbarContainer = styled.div`
 `;
 
 export const NavLogo = styled(LinkRouter)`
-  border: 2px solid red;
   color: #fff;
   justify-self: start;
   cursor: pointer;
