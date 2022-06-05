@@ -30,37 +30,37 @@ export const NavbarContainer = styled.div`
 `;
 
 export const NavLogo = styled(LinkRouter)`
-border: 2px solid red;
-color: #fff;
-justify-self: start;
-cursor: pointer;
-font-size: 1.5rem,
-display: flex;
-align-items: center;
-margin-left: 24px;
-font-weight: bold;
-text-decoration: none;
+  border: 2px solid red;
+  color: #fff;
+  justify-self: start;
+  cursor: pointer;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  margin-left: 24px;
+  font-weight: bold;
+  text-decoration: none;
 `;
 
 export const MobileIcon = styled.div`
-display: none;
+  display: none;
 
-@media screen and (max-width: 768px) {
-  display: block;
-  position: absolute;
-  top: 0;
-  right: 0;
-  transform: translate(-100%, 60%);
-  font-size: 1.8rem;
-  cursor pointer;
-  color: #fff;
-}
+  @media screen and (max-width: 768px) {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-100%, 60%);
+    font-size: 1.8rem;
+    cursor: pointer;
+    color: #fff;
+  }
 `;
 
 export const NavMenu = styled.ul`
   display: flex;
   align-items: center;
-  list-sytle: none;
+  list-style: none;
   text-align: center;
   margin-right: -22px;
 
