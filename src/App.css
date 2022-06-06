@@ -1,3 +1,13 @@
+:root {
+  --primary-color: #111;
+  --secondary-color: #fff;
+  --tertiary-color: #abc;
+  --font-family: 'Montserrat', sans-serif;
+  --body-font-size: 1rem;
+  --header-family: ;
+  --h1-font-size: 2rem;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
