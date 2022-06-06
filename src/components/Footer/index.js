@@ -73,7 +73,7 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to="/" onClick={toggleHome}>
-              Text
+              Logo
             </SocialLogo>
             <WebsiteRights>
               Logo/Brand © {new Date().getFullYear()} All rights reserved.
