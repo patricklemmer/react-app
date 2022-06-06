@@ -77,15 +77,15 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- Technical requirements -->
+<!-- Technical requirements
 ## Technical requirements
 
-<!--See section "Usage" below.-->
+See section "Usage" below.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP
 ## Roadmap (***to be updated***)
 
 <!--
