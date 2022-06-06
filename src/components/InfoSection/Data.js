@@ -6,7 +6,7 @@ export const homeObjOne = {
   topLine: 'Premium Bank',
   headline: 'Some text about the service',
   description: 'some other text telling you about the product.',
-  buttonLabel: 'Button',
+  buttonLabel: 'Home',
   imgStart: false,
   img: require('../../images/svg-1.svg'),
   alt: 'Car',

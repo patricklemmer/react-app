@@ -16,7 +16,7 @@ export const InfoWrapper = styled.div`
   width: 100%;
   max-width: 1100px;
   margin-right: auto;
-  margin-top: auto;
+  margin-left: auto;
   padding: 0 24px;
   justify-content: center;
 `;
@@ -43,7 +43,7 @@ export const Column1 = styled.div`
 export const Column2 = styled.div`
   margin-bottom: 15px;
   padding: 0 15px;
-  grid-area: col1;
+  grid-area: col2;
 `;
 
 export const TextWrapper = styled.div`
@@ -65,7 +65,7 @@ export const TopLine = styled.p`
 export const Heading = styled.h1`
   margin-bottom: 24px;
   font-size: 3rem;
-  line-height: 1.1px;
+  line-height: 1.1;
   font-weight: 600;
   color: ${({ lightText }) => (lightText ? '#f7f8fa' : '#010606')};
 
