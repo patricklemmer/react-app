@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.44f1c6f6.css",
+    "main.js": "/react-app/static/js/main.ad86e27f.js",
+    "static/media/video.mp4": "/react-app/static/media/video.0521c85aa7e4804ca919.mp4",
+    "static/media/svg-5.svg": "/react-app/static/media/svg-5.247bf23de01916b22a20a9e383fa442a.svg",
+    "static/media/svg-2.svg": "/react-app/static/media/svg-2.17a10d484d4fc9c178daffa4a0158826.svg",
+    "static/media/svg-3.svg": "/react-app/static/media/svg-3.a1810f15a4061ddd4e355ede15c40534.svg",
+    "static/media/svg-4.svg": "/react-app/static/media/svg-4.2c14411f87ff79262bf9964a61b77c99.svg",
+    "static/media/svg-1.svg": "/react-app/static/media/svg-1.a9bb28b69b47c184d168a0546c7b1ed8.svg",
+    "static/media/svg-6.svg": "/react-app/static/media/svg-6.968533c48d7f1a30773064622453d02c.svg",
+    "index.html": "/react-app/index.html",
+    "main.44f1c6f6.css.map": "/react-app/static/css/main.44f1c6f6.css.map",
+    "main.ad86e27f.js.map": "/react-app/static/js/main.ad86e27f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f1c6f6.css",
+    "static/js/main.ad86e27f.js"
+  ]
+}
