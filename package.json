@@ -2,7 +2,7 @@
   "name": "react-website-one",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://patricklemmer.github.io/react-app/",
+  "homepage": "https://github.com/patricklemmer/react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
